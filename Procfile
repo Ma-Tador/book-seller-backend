@@ -1,1 +1,1 @@
-web: java -Dspring.profiles.active=prod -Dserve.port=$PORT -jar target/*.jar
+web: java -Dspring.profiles.active=prod -Dserve.port=$PORT -jar target/book_seller-0.0.1-SNAPSHOT.jar
